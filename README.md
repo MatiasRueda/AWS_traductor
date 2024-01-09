@@ -2,9 +2,9 @@
 
 ![Static Badge](https://img.shields.io/badge/Estado%20-%20Terminado%20-%20green)
 
-
 ## Introducción
 Pequeña función creada para poder traducir distintos textos que se le son enviados desde un idioma **entrada** a un idioma **salida**. Dichos idiomas entrada y salida deben ser especificados en el body que se le envía.
+Esta funcion fue principalmente creada para el proyecto que se encuentra en <a href="https://github.com/MatiasRueda/Traductor">este repositorio</a>
 
 ## Tecnologias usadas
 - Node
